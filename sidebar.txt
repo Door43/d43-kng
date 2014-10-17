@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kng:home|Door43 (kng)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kng|d43-kng repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kng/archive/master.zip|d43-kng.zip]]
+
+**Recent Changes**
+{{changes>ns = kng}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kng|Ethnologue data]]
+
